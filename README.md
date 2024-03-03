@@ -1,7 +1,7 @@
 # 💫 About Me:
 🧑‍💻 Full Stack Developer | JavaScript Enthusiast
 
-[![](https://visitcount.itsvg.in/api?id=muazimmaqbool&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=muazimmaqbool&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 
 # 💻 Tech Stack:
