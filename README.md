@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 Full Stack Developer | JavaScript Enthusiast <br>🌱 I’m currently learning React Testing Library and React Native<br>💬 Ask me about development
+🧑‍💻 Full Stack Developer | JavaScript Enthusiast
 
 
 
