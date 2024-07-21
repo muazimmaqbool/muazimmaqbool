@@ -2,8 +2,6 @@
 🧑‍💻 Full Stack Developer | JavaScript Enthusiast
 
 <!-- [![](https://visitcount.itsvg.in/api?id=muazimmaqbool&icon=0&color=0)](https://visitcount.itsvg.in) -->
-<h1 align="center">Hi 👋, I'm Muazim Maqbool</h1>
-<h3 align="center">Aslamualikum, 🚀 Full Stack Developer | JavaScript Enthusiast Passionate about building seamless web experiences. Expertise in Javascript ,ReactJS, React Native,Node.js, and a knack for problem-solving. Let's connect and code something extraordinary! 💻✨</h3>
 
 - 🌱 I’m currently learning **React Native, React Testing Library**
 
