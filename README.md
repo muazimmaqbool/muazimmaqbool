@@ -3,7 +3,7 @@
 
 <!-- [![](https://visitcount.itsvg.in/api?id=muazimmaqbool&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
-- 🌱 I’m currently learning **React Native, React Testing Library, React Native Papers, GlueStack**
+- 🌱 I’m currently learning **React Native, React Testing Library, React Native Papers, GlueStack, TailwindCSS**
 
 - 📝 I regularly write articles on [https://muazim.substack.com/](https://muazim.substack.com/)
 
