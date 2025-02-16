@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Nodejs, Expressjs, MongoDB**
 
 - 📝 I regularly write articles on [https://muazim.substack.com/](https://muazim.substack.com/)
+- 🧑‍💻 I’m currently working on gym management app as a side project
 
 - 📫 How to reach me **mail@muaizm.com**
 
