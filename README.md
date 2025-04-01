@@ -3,7 +3,7 @@
 
 <!-- [![](https://visitcount.itsvg.in/api?id=muazimmaqbool&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
-- 🌱 I’m currently learning **Nodejs, Expressjs, MongoDB**
+- 🌱 I’m currently learning **Backend technologies**
 
 - 📝 I regularly write articles on [https://muazim.substack.com/](https://muazim.substack.com/)
 - 🧑‍💻 I’m currently working on gym management app as a side project
